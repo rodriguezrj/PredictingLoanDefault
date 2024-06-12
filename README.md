@@ -31,7 +31,7 @@ Throughout this project we leveraged Kaggle, a reputable data repository, to acq
 We implemented a multi-model evaluation approach to ensure accuracy. We employed Logistic Regression, Decision Trees, Random Forests, Gradient Boosting and SVC.
 
 Test size at 20%
-![alt text](image-1.png)
+![alt text](https://github.com/rodriguezrj/PredictingLoanDefault/blob/main/Images/image-1.png)
 We ran our initial to the size of 20%
 
 
