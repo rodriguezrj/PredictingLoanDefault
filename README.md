@@ -36,7 +36,7 @@ We ran our initial to the size of 20%
 
 
 Test size at 60%
-![alt text](image-2.png)
+![alt text](https://github.com/rodriguezrj/PredictingLoanDefault/blob/main/Images/image-2.png)
 To tune our model for better accuracy we increased the test size to 60%
 
 
